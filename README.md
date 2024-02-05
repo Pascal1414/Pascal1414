@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hallo mein Name ist Pascal
+### 👋 Hallo mein Name ist Pascal
 - 🎂 18 Jahre alt
 - 👨‍💻 Lehrling als Applikationsentwickler im 3. Lehrjahr
 - 📘 Ich besuche die Berufsmaturitätsschule Zürich
