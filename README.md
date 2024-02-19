@@ -9,6 +9,7 @@
   - Frontent Websites (Vue & Typescript)
   - Desktopanwendungen (C# Wpf / Win Forms)
   - Und vieles mehr ...
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascal1414&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projekte
