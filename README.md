@@ -12,3 +12,4 @@
  
 ### Projekte
 #### [Protein Counter](https://github.com/Pascal1414/Protein-Counter)  -  [FFVGS](https://github.com/Pascal1414/ffvgs) - [Personal Website](https://github.com/Pascal1414/Personal-Website)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascal1414)](https://github.com/anuraghazra/github-readme-stats)
